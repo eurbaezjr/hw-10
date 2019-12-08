@@ -1,10 +1,10 @@
 # homework-10: Template Engine - Employee Summary
 
-This is a software engineering team generator command line application. The application prompts the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. 
-
-In the `Develop` folder, there is a `package.json`, so make sure to `npm install`.
+This is a software engineering team generator command line application. The application prompts the user for information about the team manager and then information about the team members. The user can input any number of team members.
 
 The dependencies are, [jest](https://jestjs.io/) for running the provided tests, and [inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user.
+
+All dependancies can be installed via npm install
 
 
 ### User input
@@ -23,3 +23,6 @@ The project must generate a `team.html` page in the `output` directory, that dis
   * ID
 
   * Role-specific property (School, link to GitHub profile, or office number)
+  
+## Demo 
+![Demo of Application](https://github.com/eurbaezjr/hw-10/blob/master/Assets/Functionality%20Demo.gif)
