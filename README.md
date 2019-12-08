@@ -9,7 +9,7 @@ All dependancies can be installed via npm install
 
 ### User input
 
-The project must prompt the user to build an engineering team. An engineering
+The application prompts the user to build an engineering team. An engineering
 team consists of a manager, and any number of engineers and interns.
 
 ### Roster output
